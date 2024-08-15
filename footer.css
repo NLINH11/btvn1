@@ -1,0 +1,40 @@
+footer{
+    height:200px;
+    width:100%;
+    background:#e598e8;
+    bottom:0px;
+    position:relative;   
+}
+
+
+.table-container {
+    display: flex;
+    justify-content: center; /*Căn theo chiều ngang */
+    align-items: center; /* Căn theo chiều dọc */
+} 
+
+
+/* css cho phần thân */
+div table tr td img {
+    width:330px;
+    height:290px;
+    margin-top:90px;
+}
+
+
+
+footer .table-container a{
+   text-decoration: none;
+}
+
+
+footer .table-container .table td:hover a {
+    background-color: #b152c0; 
+}
+
+.table-container{
+    text-align: center; 
+    color: white;
+}
+
+

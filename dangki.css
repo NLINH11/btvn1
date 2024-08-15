@@ -1,0 +1,13 @@
+form table a{
+    text-decoration: none;
+}
+
+.dangki tr td img{
+  margin-top:86px;
+  margin-left:0px;
+  width:850px;
+}
+.dangki{
+    width:100%;
+    height:auto;
+}
